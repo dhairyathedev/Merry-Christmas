@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
 body{
-    background-color: red;
+    /* background-color: red; */
 }
 .card{
     margin-top: 250px;
@@ -12,4 +12,8 @@ body{
 .card-title h1{
     font-size: 55px;
     font-family: 'Festive', cursive;
+}
+.btn{
+    border-radius: 25px;
+    opacity: 0.5;
 }
