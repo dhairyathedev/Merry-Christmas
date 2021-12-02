@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+body{
+    background-color: red;
+}
+.card{
+    margin-top: 250px;
+    z-index: 1000;
+    background: transparent;
+    border: none;
+    color: #fff;
+}
+.card-title h1{
+    font-size: 55px;
+    font-family: 'Festive', cursive;
+}
